@@ -1,4 +1,4 @@
 {
-    "version" : "1",
-    "filter" : ["covid" , "pandemic", "booster shot", "corona", "vaccine", "vax", "flu "]
+    "version" : "2",
+    "filter" : []
 }
